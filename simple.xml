@@ -11,7 +11,7 @@
         <field name="VAR">leftFront</field>
         <value name="VALUE">
           <block type="sensor_object" id="125">
-            <field name="OBJECT">RIGHTSIDE</field>
+            <field name="OBJECT">RIGHTFRONT</field>
           </block>
         </value>
         <next>
